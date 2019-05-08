@@ -1,0 +1,37 @@
+.App {
+  
+  height:100vh;
+  display: flex;
+  color:red;
+}
+.header{
+  color: mediumblue;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  font-display: fallback;
+  text-align: center;
+  
+}
+.form{
+ 
+  text-align: left;
+  color: black;
+  margin-left: 150px
+  
+}
+.pwd{
+  margin-top: 2.5%;
+
+}
+.button{
+  margin-top:2.5%;
+}
+.cancel{
+  margin-top:2.5%;
+}
+
+
+
+
+
+

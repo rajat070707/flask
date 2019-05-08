@@ -1,0 +1,16 @@
+.header{
+    background-color: rgb(41, 154, 219);
+    padding: 100px;
+    color: #f1f1f1;
+    }
+.card1{
+    font-family: cursive !important;
+    width: 100%;
+    height: 200px !important;
+    margin-top: 10px;
+
+  }
+.card-title{
+    font-size: 30px;
+    font-family: cursive !important;
+}
